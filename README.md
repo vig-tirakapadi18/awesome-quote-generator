@@ -1,1 +1,1 @@
-# awesome-quote-generator
+# html-css-js-project-template
